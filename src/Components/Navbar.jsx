@@ -60,10 +60,10 @@ const Navbar = ({ cartCount, wishlistCount }) => {
                             Dashboard
                         </NavLink>
                         <NavLink
-                            to="/announcementbanner"
+                            to="/AboutUs"
                             className={({ isActive }) => (isActive ? 'text-yellow-500' : 'hover:text-gray-300')}
                         >
-                            AnnouncementBanner
+                            About Us
                         </NavLink>
                     </ul>
 

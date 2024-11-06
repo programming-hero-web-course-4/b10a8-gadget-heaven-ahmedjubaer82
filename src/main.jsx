@@ -14,6 +14,8 @@ import Statictics from './Pages/Statictics';
 import { HelmetProvider } from 'react-helmet-async';
 import Error from './Components/Error';
 import { ToastContainer } from 'react-toastify';
+import AboutUs from './Components/AboutUs';
+
 
 const router = createBrowserRouter([
   { path: '/',
@@ -55,6 +57,10 @@ const router = createBrowserRouter([
     {
         path: '*',
         element: <Error></Error>,
+      },
+    {
+        path: '/aboutUs',
+        element: <AboutUs></AboutUs>,
       },
     ],
   },
