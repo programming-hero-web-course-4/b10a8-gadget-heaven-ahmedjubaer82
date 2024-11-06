@@ -1,7 +1,7 @@
 # AJ Gadgets
 
 ## Live Website
-[Visit AJ Gadgets Live](live link here)
+[Visit AJ Gadgets Live](https://ajgadgetsbd.surge.sh/)
 
 ## Requirements Document
 [View Project Requirements](https://github.com/ProgrammingHero1/B10-A8-gadget-heaven/blob/main/Batch-10_Assignment-08.pdf)
