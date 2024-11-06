@@ -1,5 +1,3 @@
-mainjsx
-
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import './index.css';
@@ -11,7 +9,6 @@ import MainLayout from './Layout/MainLayout';
 import Dashboard from './Pages/Dashboard';
 import Home from './Pages/Home';
 import Products from './Components/Products';
-import { Outlet } from 'react-router-dom';
 import ProductDetail from './Components/ProductDetail';
 import Statictics from './Pages/Statictics';
 import { HelmetProvider } from 'react-helmet-async';
@@ -26,7 +23,7 @@ const router = createBrowserRouter([
       {
         path: '/',
         element: <Home />,
-        loader: () => fetch('/categories.json'),
+        loader: () => fetch('./categories.json'),
         children: [
 
           {

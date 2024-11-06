@@ -1,6 +1,6 @@
 import { Link, NavLink, useLocation, useNavigate } from 'react-router-dom';
 import { useEffect, useState } from 'react';
-import bannerImg from '../assets/banner.jpg';
+import bannerImg from '../assets/banner.jpg'
 
 const Navbar = ({ cartCount, wishlistCount }) => {
     const location = useLocation();
@@ -38,7 +38,7 @@ const Navbar = ({ cartCount, wishlistCount }) => {
                     }`}
             >
                 <div className="container mx-auto flex justify-between items-center">
-                    <Link to={`/`} className="text-2xl font-bold">Gadget Heaven</Link>
+                    <Link to={`/`} className="text-2xl font-bold">AJ Gadgets</Link>
 
                     <ul className="flex space-x-4">
                         <NavLink
