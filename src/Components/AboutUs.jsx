@@ -16,7 +16,7 @@ const AnnouncementBanner = () => {
             <section className="my-12 px-6 py-8 bg-purple-600 rounded-lg text-white shadow-md">
                 <h2 className="text-3xl font-bold text-center mb-4">About Us</h2>
                 <p className="text-center max-w-2xl mx-auto">
-                    Welcome to Gadget Heaven! We are passionate about bringing you the latest tech gadgets at unbeatable prices. Founded in [Year], our mission is to make technology accessible for everyone, with a focus on customer satisfaction, innovation, and integrity.
+                    Welcome to AJ Gadgets! We are passionate about bringing you the latest tech gadgets at unbeatable prices. Founded in [Year], our mission is to make technology accessible for everyone, with a focus on customer satisfaction, innovation, and integrity.
                 </p>
             </section>
 

@@ -139,7 +139,7 @@ const Dashboard = () => {
                                                 <p className='font-semibold text-xl'>Price: ${item.price}</p>
                                             </div>
                                         </div>
-                                        <button><i className="fa-regular fa-circle-xmark text-red-500 text-3xl"></i></button>
+                                        <i className="fa-regular fa-circle-xmark text-red-500 text-3xl"></i>
                                     </div>
                                 ))}
                             </ul>

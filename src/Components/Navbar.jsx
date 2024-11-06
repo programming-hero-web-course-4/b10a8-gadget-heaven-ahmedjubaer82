@@ -43,25 +43,25 @@ const Navbar = ({ cartCount, wishlistCount }) => {
                     <ul className="flex space-x-4">
                         <NavLink
                             to="/"
-                            className={({ isActive }) => (isActive ? 'text-yellow-500' : 'hover:text-gray-300')}
+                            className={({ isActive }) => (isActive ? 'text-orange-400' : 'hover:text-gray-300')}
                         >
                             Home
                         </NavLink>
                         <NavLink
                             to="/statictics"
-                            className={({ isActive }) => (isActive ? 'text-yellow-500' : 'hover:text-gray-300')}
+                            className={({ isActive }) => (isActive ? 'text-orange-400' : 'hover:text-gray-300')}
                         >
                             Statistics
                         </NavLink>
                         <NavLink
                             to="/dashboard"
-                            className={({ isActive }) => (isActive ? 'text-yellow-500' : 'hover:text-gray-300')}
+                            className={({ isActive }) => (isActive ? 'text-orange-400' : 'hover:text-gray-300')}
                         >
                             Dashboard
                         </NavLink>
                         <NavLink
                             to="/AboutUs"
-                            className={({ isActive }) => (isActive ? 'text-yellow-500' : 'hover:text-gray-300')}
+                            className={({ isActive }) => (isActive ? 'text-orange-400' : 'hover:text-gray-300')}
                         >
                             About Us
                         </NavLink>

@@ -9,7 +9,7 @@ const Categories = ({ categories }) => {
             <NavLink
                 to="/"
                 className={({ isActive }) =>
-                    `btn ${!category ? 'bg-purple-500 text-white' : ''}`
+                    `btn ${!category ? 'bg-purple-600 text-white' : ''}`
                 }
             >
                 <button className="w-28 rounded-3xl">All Products</button>
@@ -19,7 +19,7 @@ const Categories = ({ categories }) => {
                     to={`/category/${category.category}`}
                     key={category.id}
                     className={({ isActive }) =>
-                        `btn ${isActive ? 'bg-purple-500 text-white' : ''}`
+                        `btn ${isActive ? 'bg-purple-600 text-white' : ''}`
                     }
                 >
                     <button className="w-28">{category.category}</button>

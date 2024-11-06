@@ -53,7 +53,7 @@ const ProductDetail = () => {
             <Helmet>
                 <title>Gadget Heaven | Details of - {product_title}</title>
             </Helmet>
-            <div className='bg-[#9538E2] h-96 relative'>
+            <div className='bg-purple-600 h-96 relative'>
                 <Heading
                     title="Product Details"
                     subtitle={`Explore the latest gadgets that will take your experience to the next level.\nFrom smart devices to the coolest accessories, we have it all!`}
