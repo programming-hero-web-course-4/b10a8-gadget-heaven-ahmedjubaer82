@@ -1,0 +1,156 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "iPhone SE 2023",
+        "product_image": "https://i.ibb.co.com/0K1N7TX/iphone1.png",
+        "category": "Phones",
+        "price": 450,
+        "description": "Compact iPhone with essential features and powerful performance.",
+        "Specification": ["A15 Bionic", "4.7-inch Retina", "5G Enabled"],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": 2,
+        "product_title": "Asus ROG Zephyrus G14",
+        "product_image": "https://i.ibb.co.com/4R56bFF/asus1.jpg",
+        "category": "Laptops",
+        "price": 1200,
+        "description": "High-end gaming laptop with advanced graphics and cooling.",
+        "Specification": ["AMD Ryzen 9", "16GB RAM", "NVIDIA RTX 3060"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 3,
+        "product_title": "Power Bank 20000mAh",
+        "product_image": "https://i.ibb.co.com/qRsYtLC/powerbank2.jpg",
+        "category": "Power Banks",
+        "price": 80,
+        "description": "High-capacity 20000mAh power bank for multiple device charging.",
+        "Specification": ["USB-C Input", "Triple Output", "Quick Charge"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 4,
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co.com/JpbRn2q/dwell.jpg",
+        "category": "Laptops",
+        "price": 1500,
+        "description": "Powerful Dell laptop with advanced performance and premium build quality.",
+        "Specification": ["Intel i7", "16GB RAM", "1TB SSD"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 5,
+        "product_title": "Power Bank 10000mAh",
+        "product_image": "https://i.ibb.co.com/Q8s3Hm3/Anker-A1388-Powercore-Power-bank-1.png",
+        "category": "Power Banks",
+        "price": 50,
+        "description": "Compact 10000mAh power bank with fast charging capability.",
+        "Specification": ["USB-C Input", "Dual Output", "LED Indicator"],
+        "availability": true,
+        "rating": 4.0
+    },
+    {
+        "product_id": 6,
+        "product_title": "USB-C Hub",
+        "product_image": "https://i.ibb.co.com/cC7ZXB9/Gear-02-Anker-5-in-1-USB-C-Hub-SOURCE-Anker-1.png",
+        "category": "Accessories",
+        "price": 60,
+        "description": "Multi-port USB-C hub with HDMI, USB-A, and SD card support.",
+        "Specification": ["4K HDMI", "3x USB 3.0", "SD Card Reader"],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": 7,
+        "product_title": "Smart Watch Ultra",
+        "product_image": "https://i.ibb.co.com/4pcT9F7/watch2.jpg",
+        "category": "Smart Watches",
+        "price": 350,
+        "description": "Advanced smart watch with health monitoring and long battery life.",
+        "Specification": ["ECG", "GPS", "Water Resistant up to 50m"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 8,
+        "product_title": "Noise Cancelling Headphones",
+        "product_image": "https://i.ibb.co.com/KLrB6n9/headphon1.jpg",
+        "category": "Accessories",
+        "price": 150,
+        "description": "High-quality headphones with active noise cancellation.",
+        "Specification": ["Bluetooth", "20 Hours Battery", "Lightweight Design"],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "product_id": 9,
+        "product_title": "Asus ZenBook 14",
+        "product_image": "https://i.ibb.co.com/2d3M32q/asus2.jpg",
+        "category": "Laptops",
+        "price": 950,
+        "description": "Next-gen laptop with ultra-fast processing and sleek design.",
+        "Specification": ["Intel i9", "32GB RAM", "1TB SSD"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 10,
+        "product_title": "HP Envy 15",
+        "product_image": "https://i.ibb.co.com/fvDYTbm/hp2.jpg",
+        "category": "Laptops",
+        "price": 850,
+        "description": "Flexible 2-in-1 laptop with touch screen and stylus support.",
+        "Specification": ["Intel i5", "8GB RAM", "256GB SSD"],
+        "availability": false,
+        "rating": 4.4
+    },
+    {
+        "product_id": 11,
+        "product_title": "Smart Watch 4",
+        "product_image": "https://i.ibb.co.com/xJG7ddN/watch1.png",
+        "category": "Smart Watches",
+        "price": 200,
+        "description": "Stylish smart watch with fitness tracking and notifications.",
+        "Specification": ["Heart Rate Monitor", "GPS", "Water Resistant"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 12,
+        "product_title": "Lenovo Yoga 7i",
+        "product_image": "https://i.ibb.co.com/FHYHmNm/lenovo1.jpg",
+        "category": "Laptops",
+        "price": 1200,
+        "description": "Ultra-light convertible laptop with stunning display and long battery life.",
+        "Specification": ["Intel i7", "16GB RAM", "512GB SSD"],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 13,
+        "product_title": "HP Spectre x360",
+        "product_image": "https://i.ibb.co.com/d7Zy5z7/hp1.jpg",
+        "category": "Laptops",
+        "price": 750,
+        "description": "High-performance laptop with sleek design and powerful processing.",
+        "Specification": ["Intel i7", "16GB RAM", "512GB SSD"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 14,
+        "product_title": "iPhone 13",
+        "product_image": "https://i.ibb.co.com/BZVtY7R/iphon2jpeg.jpg",
+        "category": "Phones",
+        "price": 699,
+        "description": "Affordable iPhone with dual-camera system and 5G support.",
+        "Specification": ["A15 Bionic", "6.1-inch OLED", "5G Enabled"],
+        "availability": true,
+        "rating": 4.5
+    }
+]
